@@ -80,6 +80,7 @@ within our community. ❤️
 - [Core team](#core-team)
 - [Vulnerability disclosure](#vulnerability-disclosure)
 - [License](#license)
+- [License](#license)
 
 ## Contributing
 

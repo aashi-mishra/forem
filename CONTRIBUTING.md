@@ -25,7 +25,7 @@ conversations: When in doubt, assume everyone you're interacting within this
 project has the best intentions.
 
 If you feel another member of the community has violated our Code of Conduct,
-you may anonymously contact the team with our
+you may anonymously(without revealing your identity) contact the team with our
 [abuse report form](https://dev.to/report-abuse).
 
 ### Where to contribute
